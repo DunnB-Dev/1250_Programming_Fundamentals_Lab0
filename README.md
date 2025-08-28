@@ -32,7 +32,7 @@ Before we start coding, let's understand what we're doing when we work with vari
 
 In C#, declaration and initialization happen together. When we write:
 ```csharp
-string name = "Alice"
+string name = "Alice";
 ```
 We are both **declaring** a variable called `name` AND **initializing** it with the value `"Alice"`.
 
