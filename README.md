@@ -191,6 +191,7 @@ Test your program with these sample inputs to verify it's working correctly:
 - Expected Result: 80
 
 Good luck, and remember: this is your first step into the world of programming!
+
 Original Python Version Credit: Professor Ryan Haas, ETSU Dept. of Computing
 
 
