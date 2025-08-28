@@ -8,8 +8,6 @@ By the end of this lab, you will be able to:
 - Apply mathematical operators to perform basic calculations
 - Use string interpolation to format and display results
 - Apply proper C# syntax conventions
-- **Define** and **call** functions with parameters and return values
-- Implement basic control flow using while loops
 
 ---
 
